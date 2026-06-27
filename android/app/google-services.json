@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625225529844",
+    "project_id": "tpflutter1",
+    "storage_bucket": "tpflutter1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625225529844:android:3b1e3eff83c51b003661a1",
+        "android_client_info": {
+          "package_name": "com.example.tpeval"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe_VTzBZ_ekvqgPv4QgfrdmSyOpYB546w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
